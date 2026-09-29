@@ -1,0 +1,12 @@
+{
+  "name": "student-management-api",
+  "version": "1.0.0",
+  "description": "Simple Student Management REST API using Express.js (no database, array/JSON only)",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
